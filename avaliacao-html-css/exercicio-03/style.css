@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+
+}
+
+
+nav{
+    background-color: #000000f3;
+    height: 122.5px;
+    width: 100%;
+}
+
+.section-one{
+    background-color:rgb(253, 217, 169);
+    height: 822px;
+    display: flex;
+    align-items: flex-end;
+ 
+
+}
+
+.div-one{
+    background-color: #f3a4d9f3;
+    height: 822px;
+    width: 12%;
+   
+  
+}
+
+.div-two{
+    background-color: rgb(158, 90, 90);
+    height: 110px;
+    width: 90%;
+    
+}
+
+
+
