@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+   
+}
+
+
+nav{
+    height: 100px;
+    color: rgb(255, 230, 0);
+    display: flex;
+    justify-content: space-around;
+    background-color: #000000;
+    padding: 1rem;
+}  
+.about {
+    background-color:seashell;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobre {
+    height: 130px;
+    background-color:seashell;
+
+}   
+
+img{
+    width: 200px;
+    
+}
+
+#main-footer {
+    height: 133px;
+    background-color: #000000;
+    color: rgb(255, 230, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+   
+}
+  
+
